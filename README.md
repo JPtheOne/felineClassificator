@@ -4,7 +4,7 @@ This repository holds the most relevant notebooks for Artificial Vision's Course
 Here they lay all the notebooks used to obtain the results displayed on the poster. Each notebook summarizes the main operations of each step, nevertheless, as mentioned in presentation, the majority of the results 
 were obtained empirically, by testing different operations and strategies on the code. 
 
-![image](https://github.com/JPtheOne/felineClassificator/assets/102324051/89a0a901-5591-4ea9-8d5f-9572e4e8deaa)
+![1](https://github.com/JPtheOne/felineClassificator/assets/102324051/9ac13657-2e2f-4563-a7ab-1ea9138e6862)
 
 To illustrate, and example is provided, despite the best results are plotted and shown on the poster. Which you can observe below.
 
