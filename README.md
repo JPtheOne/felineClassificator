@@ -8,6 +8,9 @@ were obtained empirically, by testing different operations and strategies on the
 
 To illustrate, and example is provided, despite the best results are plotted and shown on the poster. Which you can observe below.
 
-Any doubt, dont hesitate on writing to juanpamord30@gmail.com
+![Poster image](https://github.com/JPtheOne/felineClassificator/assets/102324051/6ffb39c8-6649-466a-9591-3164cca1f16c)
 
+Dataset obtained from [here](https://www.kaggle.com/datasets/crownedhead06/big-cats-images-dataset?select=tigers).
+
+Any doubt, dont hesitate on writing to juanpamord30@gmail.com
 
